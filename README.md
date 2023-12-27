@@ -13,4 +13,6 @@
 If you do not see Obsidian as an option, try refreshing the page in your browser. 
 
 ## Preview
-<img src="screenshot1.png" />
+<img src="greensidian1.png" />
+<img src="greensidian2.png" />
+<img src="greensidian3.png" />
